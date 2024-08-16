@@ -1,13 +1,13 @@
 # extDB3
-I have created this repository as an archive to download extDB3, since the repository was closed by bitbucket https://bitbucket.org/torndeco/extdb3/.
+This repository is an archive to download extDB3, since the repository was closed by bitbucket https://bitbucket.org/torndeco/extdb3/.
 
 A x64 version for Linux is now available! 
 
 Released a new version for Windows that changes small things in the library.
 
-Fork: This fork will look into making this made properly and not doing some dodgy method of compiling. Let alone why use yet another... different memory handler
-      Bringing this back to use the default and maybe useable by any of the included arma 3 memory handlers why use the same one your server is running on?
-      (this never made any sense to me moment seen this...)
+EDIT: This fork will look into making this build properly and not doing some dodgy method of compiling. Let alone why use yet another... different memory handler.  
+      Attempting to make this use the default dll and maybe any of the included arma 3 memory handlers.  Why NOT use the same one your server is running on?  
+      This never made any sense to moment seen this... even if this is loaded as a mod should you not be using the same memory handler as the program you running inside/called from?
 
 # Description
 extDB3 is an Arma3 Addon for connecting to Databases (currently only MariaDB/MySQL).
