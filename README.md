@@ -3,7 +3,11 @@ I have created this repository as an archive to download extDB3, since the repos
 
 A x64 version for Linux is now available! 
 
-I released a new version for Windows that changes small things in the library.
+Released a new version for Windows that changes small things in the library.
+
+Fork: This fork will look into making this made properly and not doing some dodgy method of compiling. Let alone why use yet another... different memory handler
+      Bringing this back to use the default and maybe useable by any of the included arma 3 memory handlers why use the same one your server is running on?
+      (this never made any sense to me moment seen this...)
 
 # Description
 extDB3 is an Arma3 Addon for connecting to Databases (currently only MariaDB/MySQL).
@@ -24,8 +28,3 @@ If you wish to redistribute/repackage extDB3.dll / extDB3.so separately you need
 You have permission to use "extDB3 Addon" on a monetized arma server(s).
 Please remember to share by donating to various authors that create content / tools that you are using.
 
-### Donate link
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
-
-### Wiki
-https://github.com/SteezCram/extDB3/wiki
